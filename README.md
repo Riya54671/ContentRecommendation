@@ -1,4 +1,5 @@
 Content Recommendation System
+
 A personalized recommendation platform for articles, courses, and videos with category filters, favorites, and secure user authentication.
 
 📌 Overview
@@ -29,6 +30,7 @@ Database: SQL
 Authentication: JWT
 
  Future Improvements
+ 
 📊 Recommendation algorithm based on user preferences and also auto update new content
 
 📱 Mobile responsiveness improvements
